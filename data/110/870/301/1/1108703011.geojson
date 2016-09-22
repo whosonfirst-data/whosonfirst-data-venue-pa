@@ -1,0 +1,68 @@
+{
+  "id": 1108703011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.4953176,9.030509,-79.4953176,9.030509",
+    "geom:latitude":9.030509,
+    "geom:longitude":-79.495318,
+    "iso:country":"PA",
+    "mz:hierarchy_label":1,
+    "sg:address":"2nd floor Swiss Bank Building East 53rd Street, Marbella",
+    "sg:city":"Panama City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"6-1014",
+    "sg:tags":[
+        "visions-solutions-technologies-web2-0-online-web-portals-international-marketing-six-degrees-of-separation-past-present-future"
+    ],
+    "sg:website":"http://flaveo-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632179,
+        85764009,
+        85675789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fcXVCChkhTyHuAHHNr5Yv_9.030509_-79.495318@1308163242"
+    },
+    "wof:country":"PA",
+    "wof:created":1474570903,
+    "wof:geomhash":"33cf6f8c054980520c411fd9253cce59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632179,
+            "neighbourhood_id":85764009,
+            "region_id":85675789,
+            "venue_id":1108703011
+        }
+    ],
+    "wof:id":1108703011,
+    "wof:lastmodified":1474570903,
+    "wof:name":"Flaveo",
+    "wof:parent_id":85764009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "visions-solutions-technologies-web2-0-online-web-portals-international-marketing-six-degrees-of-separation-past-present-future"
+    ]
+},
+  "bbox": [
+    -79.4953176,
+    9.030509,
+    -79.4953176,
+    9.030509
+],
+  "geometry": {"coordinates":[-79.49531760000001,9.030509],"type":"Point"}
+}
